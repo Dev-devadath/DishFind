@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import forkIcon from "./assets/fork_icon.png";
 
-const API_BASE_URL = "https://restaurant-foodrecommender.onrender.com";
+const API_BASE_URL = "API_URL";
 
 function InputForm({ onResults }) {
   const [url, setUrl] = useState("");
