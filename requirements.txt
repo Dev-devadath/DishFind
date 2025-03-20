@@ -1,0 +1,8 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+python-dotenv==1.0.1
+apify-client==1.6.1
+pydantic==2.6.1
+python-multipart==0.0.9
+google-generativeai==0.3.2 
+beautifulsoup4==4.12.2
