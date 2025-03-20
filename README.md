@@ -1,7 +1,7 @@
-# 🍽️ DishFind
+# 🍽️ WhaToEat
 
 ## Overview
-DishFind is a smart food discovery platform that helps users **find the best dish at a restaurant** and **discover the best restaurants for a specific dish** near them. By analyzing real customer reviews, ratings, and dish popularity, it ensures that users always get the best food recommendations.
+WhaToEat is a smart food discovery platform that helps users **find the best dish at a restaurant** and **discover the best restaurants for a specific dish** near them. By analyzing real customer reviews, ratings, and dish popularity, it ensures that users always get the best food recommendations.
 
 Use the app: https://true-orb-447414-v3.web.app
 
